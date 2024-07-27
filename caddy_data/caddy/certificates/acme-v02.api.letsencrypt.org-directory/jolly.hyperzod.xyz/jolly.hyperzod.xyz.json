@@ -1,0 +1,8 @@
+{
+	"sans": [
+		"jolly.hyperzod.xyz"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/04f38a7733f89120950678a9db8165e5076c"
+	}
+}

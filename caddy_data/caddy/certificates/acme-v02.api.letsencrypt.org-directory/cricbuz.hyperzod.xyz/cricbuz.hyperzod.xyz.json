@@ -1,0 +1,8 @@
+{
+	"sans": [
+		"cricbuz.hyperzod.xyz"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/038367594efc99e4d97dd8492cab441db9e2"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"sans": [
+		"caddy.hyperzod.xyz"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/038c00aaf27384f3f29caffff709b1667a97"
+	}
+}
